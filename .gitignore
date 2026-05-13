@@ -1,0 +1,16 @@
+**/settings/Mainnet.toml
+**/settings/Testnet.toml
+.cache/**
+history.txt
+clarinet/
+
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+coverage
+*.info
+costs-reports.json
+node_modules
+*.sh
+*.ps1
